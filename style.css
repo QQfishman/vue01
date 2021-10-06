@@ -1,0 +1,16 @@
+img {
+   border-radius: 50%;
+   border: 5px #333 solid;
+   margin-bottom: 1rem;
+}
+
+.male {
+    border-color: steelblue;
+    background-color: steelblue;
+}
+
+.female {
+    border-color: pink;
+    background-color: pink;
+    color: #333;
+}
